@@ -1,0 +1,5 @@
+tk
+requests
+pyperclip
+pyttsx3
+deep-translator
